@@ -1,0 +1,31 @@
+﻿Cost Caluclator
+
+VER 0.1 (10/27/2017)
+
+
+---------현재 기능---------
+
+1. transaction file Load Function
+2. cost file Load Function
+3. qty, total, cost Print Function
+4. No cost style list Print Function
+5. Function of checking file name
+
+
+
+---------개선해야할 것---------
+
+1. if raw transaction file are loaded, first 5 rows have to be removed.
+2. Listbox 가 어떤 List를 가지고 있는지 Label 붙이기
+3. qty, total, cost 에 단위 Comma 넣기
+4. Inventory cost function 추가하기
+5. Error 없애기
+6. Menubar 추가
+7. No file 일때 결과값 상태를 empty로 바꾸기
+
+
+
+
+---------항상해야할 것---------
+
+Code Optimization
